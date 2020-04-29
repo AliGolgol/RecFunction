@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a1dd6c-3461-4b67-8dcc-c84bcfcbcb72" name="Default Changelist" comment="" />
+    <list default="true" id="01a1dd6c-3461-4b67-8dcc-c84bcfcbcb72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +17,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aOwwGyAT7B5nWGqIz6g8vejJaQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -136,22 +142,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1586689303489" />
-    <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1586720696493">
+    <state x="297" y="39" key="CommitChangelistDialog2" timestamp="1588170506889">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586720696493" />
-    <state width="1398" height="285" key="GridCell.Tab.0.center" timestamp="1586720696492">
+    <state x="297" y="39" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588170506889" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1588170188350">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="285" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586720696492" />
-    <state width="1398" height="285" key="GridCell.Tab.0.left" timestamp="1586720696491">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1588170188350" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1588170188349">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="285" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586720696491" />
-    <state width="1398" height="285" key="GridCell.Tab.0.right" timestamp="1586720696492">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1588170188349" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1588170188349">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="285" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586720696492" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1588170188349" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1588170188350">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1588170188350" />
     <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1586720696494">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
