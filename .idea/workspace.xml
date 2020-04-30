@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a1dd6c-3461-4b67-8dcc-c84bcfcbcb72" name="Default Changelist" comment="" />
+    <list default="true" id="01a1dd6c-3461-4b67-8dcc-c84bcfcbcb72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,24 +170,32 @@
       <option name="project" value="LOCAL" />
       <updated>1588171211599</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding .gitattributes">
+      <created>1588271794436</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588271794436</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ignore file" />
     <MESSAGE value="Ignore target" />
     <MESSAGE value="Ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ignore" />
+    <MESSAGE value="Adding .gitattributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding .gitattributes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586689303489">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="408" y="196" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1586689303489" />
-    <state x="297" y="39" key="CommitChangelistDialog2" timestamp="1588171211502">
+    <state x="297" y="39" key="CommitChangelistDialog2" timestamp="1588271794285">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="297" y="39" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588171211502" />
+    <state x="297" y="39" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1588271794285" />
     <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1588170188350">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -218,14 +228,14 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586720696494" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1588171212969">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1588271797523">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1588171212969" />
-    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588171402708">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1588271797523" />
+    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588271949546">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1588171402708" />
+    <state x="507" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1588271949546" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
